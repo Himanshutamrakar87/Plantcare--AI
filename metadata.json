@@ -1,0 +1,6 @@
+{
+  "name": "PlantCare AI — Smart Plant Disease Detection & Care Assistant",
+  "description": "Modern agricultural platform for plant disease detection, FastAPI model integration, smart care advisory, and bilingual agronomist assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
